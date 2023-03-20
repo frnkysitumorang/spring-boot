@@ -1,5 +1,4 @@
 # Spring-Boot-Chat
-A Springs
 A chat application using Sprint Boot and WebSockets.
 
 ## Requirements
